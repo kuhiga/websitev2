@@ -94,7 +94,7 @@ export const pageQuery = graphql`
         node {
           body
           frontmatter {
-            title
+            titles
             seoTitle
             useSeoTitleSuffix
             useSplashScreen
