@@ -80,29 +80,29 @@ module.exports = {
   //-- NAVIGATION SETTINGS -----
   navLinks: {
     menu: [
-      {
-        name: "About Me",
-        url: "/#about",
-      },
-      {
-        name: "Projects",
-        url: "/#projects",
-      },
-      {
-        name: "Skills",
-        url: "/#interests",
-      },
-      {
-        name: "Contact",
-        url: "/#contact",
-      },
+      // {
+      //   name: "About Me",
+      //   url: "/#about",
+      // },
+      // {
+      //   name: "Projects",
+      //   url: "/#projects",
+      // },
+      // {
+      //   name: "Skills",
+      //   url: "/#interests",
+      // },
+      // {
+      //   name: "Contact",
+      //   url: "/#contact",
+      // },
     ],
     button: {
-      useFileName: true,
-      name: "Resume",
-      fileName: "Kurt_Higa_Resume.pdf", // the file has to be placed inside the static folder at the root level
-      url: "", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
-    },
+    //   useFileName: true,
+    //   name: "Resume",
+    //   fileName: "Kurt_Higa_Resume.pdf", // the file has to be placed inside the static folder at the root level
+    //   url: "", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
+    // },
   },
   footerLinks: [
     // {
