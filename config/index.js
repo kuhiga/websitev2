@@ -80,22 +80,22 @@ module.exports = {
   //-- NAVIGATION SETTINGS -----
   navLinks: {
     menu: [
-      // {
-      //   name: "About Me",
-      //   url: "/#about",
-      // },
-      // {
-      //   name: "Projects",
-      //   url: "/#projects",
-      // },
-      // {
-      //   name: "Skills",
-      //   url: "/#interests",
-      // },
-      // {
-      //   name: "Contact",
-      //   url: "/#contact",
-      // },
+      {
+        name: "About Me",
+        url: "/#about",
+      },
+      {
+        name: "Projects",
+        url: "/#projects",
+      },
+      {
+        name: "Skills",
+        url: "/#interests",
+      },
+      {
+        name: "Contact",
+        url: "/#contact",
+      },
     ],
     button: {
       //   useFileName: true,
